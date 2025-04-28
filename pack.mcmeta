@@ -1,7 +1,10 @@
-﻿ {
-    "pack": {
-        "pack_format": 34,
-        "description": "tool_endurance_notification",
-			"supported_formats": [15, 18, 22, 32, 34]
+﻿{
+  "pack": {
+    "pack_format": 34,
+    "description": "tool_endurance_notification",
+    "supported_formats": {
+      "max_inclusive": 55,
+      "min_inclusive": 15
     }
+  }
 }
